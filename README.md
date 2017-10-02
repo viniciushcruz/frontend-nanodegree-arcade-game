@@ -13,5 +13,5 @@ Open the index.html file in your browser
 You need to cross the field until the ocean(blue block) without to collide with any Bug.
 
 ### Rules
-- If you collide with any Bug is't a gameover and the game restarted 
+- If you collide with any Bug it's a gameover and the game restarted 
 - You have only one life, if you die, the game is restarted
