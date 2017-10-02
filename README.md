@@ -1,6 +1,17 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+![Arcade game](./images/arcade_game.png?raw=true)
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+
+## How to run the arcade game
+Open the index.html file in your browser
+
+## How to play de game
+
+### Objective
+You need to cross the field until the ocean(blue block) without to collide with any Bug.
+
+###Rules
+-If you collide with any Bug is't a gameover and the game restarted 
+-You have only one life, if you die, the game is restarted
